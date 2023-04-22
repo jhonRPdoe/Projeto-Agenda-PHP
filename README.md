@@ -8,7 +8,7 @@ Minha tentativa para a vaga de estagio back-end da empresa Magazord :)
   - [Descrição](#Descrição)
   - [Screenshot](#screenshot)
 - [Meu processo](#meu-processo)
-  - [O que eu fiz](#O-que-eu-fiz)
+  - [O que eu fiz](#O-que-eu-fiz-(e-não-fiz))
   - [O-que-aprendi](#O-que-aprendi)
 - [Author](#author)
 
