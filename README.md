@@ -28,15 +28,21 @@ Para executar o sistema os arquivos de "sistema" devem estar em servidor com end
 ![](./img-readme/Capturar.PNG)
 ![](./img-readme/Capturar2.PNG)
 ![](./img-readme/Capturar3.PNG)
+![](./img-readme/Capturar4.PNG)
+![](./img-readme/Capturar5.PNG)
+![](./img-readme/Capturar6.PNG)
 
 ## Meu processo
 
-### O que eu fiz
+### O que eu fiz (e não fiz)
 
 A primeira coisa que se nota é que não atendi a 90% do requisitos, isso aconteceu por conta da minha falta de conhecimento em relação aos metodos e ferramentas requisitados, como por exemplo o Composer, padrão de projeto MVC e POO, sendo esses dois ultimos conhecidos por mim, porém nunca cheguei a me aprofundar de fato e menos ainda a utilizar.
 Por essa razão optei por fazer de uma forma que eu soubesse. Acredito que é melhor entregar algo diferente do que não entregar nada.
 
-Já o fato dele estar incompleto - isso me frustra muito - é resultado de eu ter passado a maior parte da semana buscando aprender o temas necessários para atender os requisitos, infelizmente eles são muito densos para se aprender em tão pouco tempo. Por fim acabei ficando sem tempo para terminar o projeto. 
+Já o fato dele estar incompleto - isso me frustra muito - é resultado de eu ter passado a maior parte da semana buscando aprender o temas necessários para atender os requisitos, infelizmente eles são muito densos para se aprender em tão pouco tempo. Por fim acabei ficando sem tempo para fazer as outras telas, configurar a tabela pessoa e terminar o projeto.
+
+A função delete da tabela não esta funcionando por algum motivo desconhecido para mim, não exibe mensagem de erro e não encerra o processo.
+procurei no código diversas vezes por alguma inconsistencia, debugei e nada :/
 
 ### O que aprendi
 
