@@ -30,7 +30,7 @@
                                 <a href="<?= $BASE_URL ?>/edit.php?id=<?= $contact["id"] ?>"><i class="far fa-edit edit-icon"></i></a>
                                 <form class="delete-form" action="<?= $BASE_URL ?>/config/process.php" method="POST">
                                     <input type="hidden" name="type" value="delete">
-                                    <input type="hidden" name="type" value="<?= $contact["id"] ?>">
+                                    <input type="hidden" name="id" value="<?= $contact["id"] ?>">
                                     <button type="submit" class="delete-btn"><i class="fas fa-times delete-icon"></i></button>
                                 </form>
                             </td>
