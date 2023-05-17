@@ -1,6 +1,6 @@
-# Teste Back-end - Agenda de contatos
+# Agenda de contatos
 
-Minha tentativa para a vaga de estagio back-end da empresa Magazord :)
+Meu projetinho de agenda em PHP :)
 
 ## Tabela de conteudos
 
