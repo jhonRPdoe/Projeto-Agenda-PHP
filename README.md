@@ -41,9 +41,6 @@ Por essa razão optei por fazer de uma forma que eu soubesse. Acredito que é me
 
 Já o fato dele estar incompleto - isso me frustra muito - é resultado de eu ter passado a maior parte da semana buscando aprender o temas necessários para atender os requisitos, infelizmente eles são muito densos para se aprender em tão pouco tempo. Por fim acabei ficando sem tempo para fazer as outras telas, configurar a tabela pessoa e terminar o projeto.
 
-A função delete da tabela não esta funcionando por algum motivo desconhecido para mim, não exibe mensagem de erro e não encerra o processo.
-procurei no código diversas vezes por alguma inconsistencia, debugei e nada :/
-
 ### O que aprendi
 
 O que eu usei no projeto basicamente eu já sabia, então o que aprendi de fato foi que ainda tenho muito a aprender kkk.
